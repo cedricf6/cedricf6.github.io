@@ -3,7 +3,7 @@
 }
 
 .blue {
-  color: #0074D9;
+  color: #607c8a;
 }
 
 .teal {
@@ -16,5 +16,11 @@
 
 .bg-yellow {
 	
-  background-color:	#FFDC00;
+  background-color:	#546d78;
+  color: #FFFFFF;
+  padding: 1px;
+}
+
+.md-code__content {
+	border: 1px solid #607c8a;
 }
